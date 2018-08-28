@@ -1,0 +1,71 @@
+[
+	{
+		"car": {
+			"make": "Audi",
+			"model": "A7",
+			"vin": "09AGHY64352JITEG98K",
+			"metadata": {
+				"color": "Black",
+				"notes": "Scratches on the front side of the car"
+			},
+			"perdayrent": {
+				"price": 140,
+				"discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 210.76,
+				"depreciation": 226.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 221
+				}
+			}
+		}
+	},
+	{
+		"car": {
+			"make": "Audi",
+			"model": "A7",
+			"vin": "09AGHY64352JITEG98K",
+			"metadata": {
+				"color": "Black",
+				"notes": "Scratches on the front side of the car"
+			},
+			"perdayrent": {
+				"price": 120,
+				"discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 190.76,
+				"depreciation": 256.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 221
+				}
+			}
+		}
+	},
+	{
+		"car": {
+			"make": "Blue Teslas",
+			"model": "A7",
+			"vin": "09AGHY64352JITEG98K",
+			"metadata": {
+				"color": "Black",
+				"notes": "Scratches on the front side of the car"
+			},
+			"perdayrent": {
+				"price": 100,
+				"discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 2190.76,
+				"depreciation": 2256.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 221
+				}
+			}
+		}
+	}
+]
